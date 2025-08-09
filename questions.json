@@ -1,0 +1,62 @@
+[
+  {
+    "id": "E01",
+    "topic": "Ethics",
+    "q": "【Ethics】CFA協会の『Integrity』の要旨は？",
+    "a": "市場・顧客・専門職に誠実。個人的利益より職業責任を優先。"
+  },
+  {
+    "id": "Q01",
+    "topic": "Quant",
+    "q": "【Quant】相関係数と共分散の関係式は？",
+    "a": "ρ=Cov(X,Y)/(σX·σY)"
+  },
+  {
+    "id": "EC01",
+    "topic": "Economics",
+    "q": "【Economics】名目GDPと実質GDPの違い？",
+    "a": "名目は当期価格、実質は基準年価格で数量評価（物価影響を除去）。"
+  },
+  {
+    "id": "FSA01",
+    "topic": "FSA",
+    "q": "【FSA】発生主義会計の核心は？",
+    "a": "現金主義ではなく経済実態に基づき発生時点で認識。"
+  },
+  {
+    "id": "CF01",
+    "topic": "CorpFinance",
+    "q": "【CorpFin】WACC（税効果あり）を言葉で。",
+    "a": "株主資本コスト×株式比率 + 税引前負債コスト×(1−税率)×負債比率 + 優先株コスト×優先株比率。"
+  },
+  {
+    "id": "EQ01",
+    "topic": "Equity",
+    "q": "【Equity】ゴードン成長モデルの式は？",
+    "a": "P0=D1/(r−g)"
+  },
+  {
+    "id": "FI01",
+    "topic": "FixedIncome",
+    "q": "【FI】デュレーションの直感は？",
+    "a": "金利1%変化あたりの価格感応度の近似。"
+  },
+  {
+    "id": "DER02",
+    "topic": "Derivatives",
+    "q": "【Derivatives】プット・コール・パリティ（配当なし）は？",
+    "a": "C−P=S−K/(1+r)^T（連続複利: C−P=S−K·e^{−rT}）"
+  },
+  {
+    "id": "ALT02",
+    "topic": "Alternatives",
+    "q": "【Alts】Cap Rateの素朴な式は？",
+    "a": "Cap Rate ≈ NOI/価格"
+  },
+  {
+    "id": "PM04",
+    "topic": "Portfolio",
+    "q": "【Portfolio】シャープレシオの式は？",
+    "a": "(E[R]−Rf)/σ"
+  }
+]
